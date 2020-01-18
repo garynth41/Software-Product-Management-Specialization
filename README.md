@@ -11,8 +11,8 @@ ii. WHAT YOU WILL LEARN:
 4. Share your experiences and learn from the insights of others as part of a software product management community.
 
 iii. SKILLS YOU WILL GAIN
-a.  Software Requirements
-b.  Product Management
-c.  Scrum
-d.  agile
-e.  Project Management
+  a. Software Requirements
+  b. Product Management
+  c. Scrum
+  d. Agile
+  e. Project Management
