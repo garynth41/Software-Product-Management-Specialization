@@ -1,1 +1,0 @@
-Our course notes cover everything that we cover in our video lectures. You have the option to watch the videos, read the course notes, or a combination of the two to match your preferred learning style.
